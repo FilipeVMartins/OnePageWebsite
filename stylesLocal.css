@@ -2,4 +2,19 @@ body {
     background-color: #ffff00;
 }
 
+main{
+    background-color: ghostwhite;
+}
+
+footer div{
+    background-color: #3333cc;
+    height: 15em;
+}
+
+footer div p{
+    color: aliceblue;
+    text-align: center;
+    padding: 2em;
+}
+
 
